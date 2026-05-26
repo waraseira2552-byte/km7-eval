@@ -1,9 +1,0 @@
-{
-  "name": "km7-eval",
-  "version": "1.0.0",
-  "description": "KM7 Evaluación Comercial - Dashboard centralizado",
-  "private": true,
-  "dependencies": {
-    "@supabase/supabase-js": "^2.45.0"
-  }
-}
